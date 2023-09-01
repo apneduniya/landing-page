@@ -1,0 +1,7 @@
+-- import: fastn as f
+
+-- f.package: portfolio
+
+-- f.dependency: fifthtry.github.io/doc-site
+-- f.dependency: fastn-community.github.io/winter-cs
+;; -- f.dependency: fifthtry.github.io/roboto-font/assets
